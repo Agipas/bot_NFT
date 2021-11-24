@@ -1,6 +1,6 @@
 https://www.python.org/downloads/
 https://www.unixtimestamp.com/
-
+C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip
 pip install selenium
 pip install selenium-wire
 pip install aiohttp
