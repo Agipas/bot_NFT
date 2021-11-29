@@ -1,5 +1,5 @@
 
 requestsNumber = 800
-saleTime =1637578797
-js ={"number":1,"productId":158036705914976256}
+saleTime =1638277197
+js ={"number":2,"productId":161411104730858496}
 path = r'C:\Users\Administrator\Desktop\bot_NFT\chromedriver.exe'
